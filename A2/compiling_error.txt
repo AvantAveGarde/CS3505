@@ -1,5 +1,0 @@
-In file included from /home/avantavegarde/Dev/CS3505/A2/main.cpp:5:0:
-/home/avantavegarde/Dev/CS3505/A2/haruPDF.h:3:10: fatal error: hpdf.h: No such file or directory
- #include "hpdf.h"
-          ^~~~~~~~
-compilation terminated.
